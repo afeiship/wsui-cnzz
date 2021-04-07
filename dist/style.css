@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*!
+ * name: @jswork/wsui-cnzz
+ * description: Statistic cnzz hidden text.
+ * homepage: https://github.com/afeiship/wsui-cnzz
+ * version: 1.0.0
+ * date: 2021-04-07 20:30:08
+ * license: MIT
+ */
+/*wsui-cnzz Start*/
+.wsui-cnzz [title="站长统计"] {
+  display: none; }
+
+/*wsui-cnzz End*/

@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/*wsui-cnzz Start*/
+.wsui-cnzz [title="站长统计"] {
+  display: none;
+}
+
+/*wsui-cnzz End*/
+.test-wsui-cnzz {
+  border: 1px solid red;
+}
