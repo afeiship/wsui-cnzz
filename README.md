@@ -19,6 +19,12 @@ npm i @jswork/wsui-cnzz
 @import '~@jswork/wsui-cnzz/dist/style.css';
 ```
 
+```html
+<body class="wsui-cnzz">
+<!-- ... -->
+</body>
+```
+
 ## preview
 - https://afeiship.github.io/wsui-cnzz/
 
